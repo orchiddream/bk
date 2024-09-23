@@ -12,9 +12,3 @@
   * [Docsify](https://docsify.js.org/#/)
   * [博客园](https://www.cnblogs.com/)
 
-* 我的
-  * [GitHub](URL_ADDRESS
-  * [Gitee](URL_ADDRESS
-  * [CSDN](URL_ADDRESS
-  * [知乎](URL_ADDRESS
-  * [111](page/guide.md)

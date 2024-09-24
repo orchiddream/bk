@@ -9,6 +9,6 @@
 - 众多主题
 
 
-[开始使用 Let Go](page/guide.md 我的页面)
+[开始使用 Let Go](/page/guide.md)
 
 ![color](#f0f0f0)
